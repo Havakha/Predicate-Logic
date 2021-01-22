@@ -1,0 +1,1 @@
+sibling(prince_charles,princess_anne).
